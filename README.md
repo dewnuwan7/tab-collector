@@ -1,3 +1,12 @@
+<p align="left">
+  <img width="64" height="64"
+       src="https://github.com/user-attachments/assets/9720c52b-8f77-4ed6-a725-684b7e87d8b7"
+       align="center" />
+
+  
+</p>
+
+
 # Tab Collector
 
 A minimal Chrome extension for copying and saving your open tab URLs.
